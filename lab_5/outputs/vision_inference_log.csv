@@ -1,0 +1,12 @@
+timestamp_utc,endpoint,filename,content_type,status,top1_class,top1_confidence,inference_time_ms
+2026-06-09T01:20:12.553004+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,11.227
+2026-06-09T01:20:33.876307+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,12.634
+2026-06-09T01:39:02.157886+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,8.9
+2026-06-09T01:39:12.942770+00:00,/classify-image,OIP.webp,image/webp,ok,bathing cap,0.254865,7.694
+2026-06-09T01:46:19.791207+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,8.644
+2026-06-09T02:52:31.347912+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,36.725
+2026-06-09T02:52:56.038009+00:00,/classify-image,OIP.webp,image/webp,ok,bathing cap,0.254865,24.075
+2026-06-09T02:53:08.934455+00:00,/classify-image,R.jpg,image/jpeg,ok,dingo,0.538152,23.538
+2026-06-09T03:54:31.283709+00:00,/classify-image,OIP.webp,image/webp,ok,bathing cap,0.254865,41.764
+2026-06-09T04:24:53.241800+00:00,/classify-image,ho.webp,image/webp,ok,tiger,0.756303,17.163
+2026-06-09T04:29:57.877974+00:00,/classify-image,ghe.jpg,image/jpeg,ok,rocking chair,0.573323,12.439
